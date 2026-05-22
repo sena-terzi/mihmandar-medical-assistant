@@ -32,15 +32,9 @@ A single intelligent interface → multiple specialized AI agents.
 
 ## 🏗️ System Architecture
 
-```
-User Input
-    ↓
-Router LLM
-    ↓───────────────────────────────────────────────
-    │                    │                        │
-Info Agent      Appointment Agent      Navigation Agent
-(RAG-based)        (DB + OCR)           (Graph + Dijkstra)
-```
+<p align="center">
+  <img src="assets/architecture.png" width="850"/>
+</p>
 
 ---
 
@@ -127,7 +121,9 @@ Used in the Intelligent Information Agent to enrich LLM responses with hospital-
 
 A full system demonstration video is available here:
 
-👉 [Insert Video Link]
+<p align="center">
+  <img src="assets/demo.gif" width="850"/>
+</p>
 
 ---
 
@@ -135,7 +131,7 @@ A full system demonstration video is available here:
 
 Detailed project presentation:
 
-👉 [Insert PDF Link]
+👉 [Project Presentation PDF](assets/mihmandar_presentation.pdf)
 
 ---
 
