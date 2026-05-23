@@ -122,7 +122,7 @@ Used in the Intelligent Information Agent to enrich LLM responses with hospital-
 A full system demonstration video is available here:
 
 <p align="center">
-  <img src="assets/demo.gif" width="850"/>
+  <img src="assets/demo.mp4" width="850"/>
 </p>
 
 ---
